@@ -1,0 +1,15 @@
+C:\Projetos\DocumentacaoCSHARP\Introducao\bin\Debug\net8.0\Introducao.exe
+C:\Projetos\DocumentacaoCSHARP\Introducao\bin\Debug\net8.0\Introducao.deps.json
+C:\Projetos\DocumentacaoCSHARP\Introducao\bin\Debug\net8.0\Introducao.runtimeconfig.json
+C:\Projetos\DocumentacaoCSHARP\Introducao\bin\Debug\net8.0\Introducao.dll
+C:\Projetos\DocumentacaoCSHARP\Introducao\bin\Debug\net8.0\Introducao.pdb
+C:\Projetos\DocumentacaoCSHARP\Introducao\obj\Debug\net8.0\Introducao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DocumentacaoCSHARP\Introducao\obj\Debug\net8.0\Introducao.AssemblyInfoInputs.cache
+C:\Projetos\DocumentacaoCSHARP\Introducao\obj\Debug\net8.0\Introducao.AssemblyInfo.cs
+C:\Projetos\DocumentacaoCSHARP\Introducao\obj\Debug\net8.0\Introducao.csproj.CoreCompileInputs.cache
+C:\Projetos\DocumentacaoCSHARP\Introducao\obj\Debug\net8.0\Introducao.dll
+C:\Projetos\DocumentacaoCSHARP\Introducao\obj\Debug\net8.0\refint\Introducao.dll
+C:\Projetos\DocumentacaoCSHARP\Introducao\obj\Debug\net8.0\Introducao.pdb
+C:\Projetos\DocumentacaoCSHARP\Introducao\obj\Debug\net8.0\Introducao.genruntimeconfig.cache
+C:\Projetos\DocumentacaoCSHARP\Introducao\obj\Debug\net8.0\ref\Introducao.dll
+C:\Projetos\DocumentacaoCSharp\Introducao\obj\Debug\net8.0\Introducao.sourcelink.json
