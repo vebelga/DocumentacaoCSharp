@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\DocumentacaoCSharp\\Introducao\\Introducao.csproj": {}
+    "C:\\Projetos\\DocumentacaoCSharp\\ConceitosBasicos\\ConceitosBasicos.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\DocumentacaoCSharp\\Introducao\\Introducao.csproj": {
+    "C:\\Projetos\\DocumentacaoCSharp\\ConceitosBasicos\\ConceitosBasicos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\DocumentacaoCSharp\\Introducao\\Introducao.csproj",
-        "projectName": "Introducao",
-        "projectPath": "C:\\Projetos\\DocumentacaoCSharp\\Introducao\\Introducao.csproj",
+        "projectUniqueName": "C:\\Projetos\\DocumentacaoCSharp\\ConceitosBasicos\\ConceitosBasicos.csproj",
+        "projectName": "ConceitosBasicos",
+        "projectPath": "C:\\Projetos\\DocumentacaoCSharp\\ConceitosBasicos\\ConceitosBasicos.csproj",
         "packagesPath": "C:\\Users\\venancio.belga\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\DocumentacaoCSharp\\Introducao\\obj\\",
+        "outputPath": "C:\\Projetos\\DocumentacaoCSharp\\ConceitosBasicos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

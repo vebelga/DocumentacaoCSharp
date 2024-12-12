@@ -1,0 +1,15 @@
+C:\Projetos\DocumentacaoCSharp\ConceitosBasicos\bin\Debug\net8.0\ConceitosBasicos.exe
+C:\Projetos\DocumentacaoCSharp\ConceitosBasicos\bin\Debug\net8.0\ConceitosBasicos.deps.json
+C:\Projetos\DocumentacaoCSharp\ConceitosBasicos\bin\Debug\net8.0\ConceitosBasicos.runtimeconfig.json
+C:\Projetos\DocumentacaoCSharp\ConceitosBasicos\bin\Debug\net8.0\ConceitosBasicos.dll
+C:\Projetos\DocumentacaoCSharp\ConceitosBasicos\bin\Debug\net8.0\ConceitosBasicos.pdb
+C:\Projetos\DocumentacaoCSharp\ConceitosBasicos\obj\Debug\net8.0\ConceitosBasicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DocumentacaoCSharp\ConceitosBasicos\obj\Debug\net8.0\ConceitosBasicos.AssemblyInfoInputs.cache
+C:\Projetos\DocumentacaoCSharp\ConceitosBasicos\obj\Debug\net8.0\ConceitosBasicos.AssemblyInfo.cs
+C:\Projetos\DocumentacaoCSharp\ConceitosBasicos\obj\Debug\net8.0\ConceitosBasicos.csproj.CoreCompileInputs.cache
+C:\Projetos\DocumentacaoCSharp\ConceitosBasicos\obj\Debug\net8.0\ConceitosBasicos.sourcelink.json
+C:\Projetos\DocumentacaoCSharp\ConceitosBasicos\obj\Debug\net8.0\ConceitosBasicos.dll
+C:\Projetos\DocumentacaoCSharp\ConceitosBasicos\obj\Debug\net8.0\refint\ConceitosBasicos.dll
+C:\Projetos\DocumentacaoCSharp\ConceitosBasicos\obj\Debug\net8.0\ConceitosBasicos.pdb
+C:\Projetos\DocumentacaoCSharp\ConceitosBasicos\obj\Debug\net8.0\ConceitosBasicos.genruntimeconfig.cache
+C:\Projetos\DocumentacaoCSharp\ConceitosBasicos\obj\Debug\net8.0\ref\ConceitosBasicos.dll
